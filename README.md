@@ -1,1 +1,1 @@
-This is my first HTML from scratch project. I'm Building a simple Recipe website. 
+This is my first HTML projec. I've built a simple recipe website featuring homebrewed beer. 
